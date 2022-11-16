@@ -1,8 +1,8 @@
-# My Nine'th Project
+# Developer Landing Page
 
 > i have learnt basics of HTML and CSS in this project.
 
-> it took me around 1 and half hours to complete this project.
+> it took me around 6 and half hours to complete this project.
 
 ### Tools Used:
 
@@ -18,4 +18,4 @@
 
 - > Sample output
 
-![Image](./9.PNG)
+![Developer Landingpage](https://user-images.githubusercontent.com/67215417/202185177-0b3ad4bf-388b-4cc5-bb6b-ec1cb964c314.png)
